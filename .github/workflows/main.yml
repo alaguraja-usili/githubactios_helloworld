@@ -22,5 +22,5 @@ jobs:
     steps:
       - name: hello world
         run: echo "Hello World"
-        shell: bash
+        shell: bash 
     
